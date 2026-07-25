@@ -1,6 +1,5 @@
-#SIEM
+#Security Information Event Management
 
-Security Information Event Management
 - Sentinel Analytics Rules
 - KQL Queries
 - Detection Documentation
