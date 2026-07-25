@@ -17,3 +17,5 @@ Cybersecurity portfolio showcasing SOC operations, IAM, SIEM detection, security
 - KQL
 - IAM Concepts
 - Security Operations
+
+The next step would be filling each 6 folders with 1–2 strong analyst case studies, not dozens of small labs.
